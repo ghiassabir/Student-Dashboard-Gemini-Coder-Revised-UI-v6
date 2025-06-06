@@ -117,7 +117,7 @@ let currentStudentData = {
 // Global array to hold all questions for easy access
 let ALL_DASHBOARD_QUESTIONS = [];
 
-[span_2](start_span)// --- MAPPING SAT SKILLS TO BOOK CHAPTERS (extracted from your PDF) ---[span_2](end_span)
+// --- MAPPING SAT SKILLS TO BOOK CHAPTERS (extracted from your PDF) ---
 const SAT_CHAPTER_SKILL_MAPPING = {
     math: {
         "Understanding and applying properties of exponents": ["1: Exponents & Radicals"],
